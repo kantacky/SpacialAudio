@@ -5,6 +5,49 @@
 	<key>logFormatVersion</key>
 	<integer>11</integer>
 	<key>logs</key>
-	<dict/>
+	<dict>
+		<key>86AD869C-411C-4C95-A8FF-AE9E0F1A7CAC</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>86AD869C-411C-4C95-A8FF-AE9E0F1A7CAC.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>SpacialAudio project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SpacialAudio</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build (Automatic) SpacialAudio</string>
+			<key>timeStartedRecording</key>
+			<real>749472054.504969</real>
+			<key>timeStoppedRecording</key>
+			<real>749472061.94566202</real>
+			<key>title</key>
+			<string>Build (Automatic) SpacialAudio</string>
+			<key>uniqueIdentifier</key>
+			<string>86AD869C-411C-4C95-A8FF-AE9E0F1A7CAC</string>
+		</dict>
+	</dict>
 </dict>
 </plist>
